@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Currently focused on building and porting C++ games to mobile platforms (iOS/Android) using SDL, CMake, and Emscripten. Exploring low-level systems and toolchains to optimize native performance across devices.</p>
+<p align="left">Currently focused on building and porting C++ games to mobile platforms (iOS/Android) using SDL, and CMake. Exploring low-level systems and toolchains to optimize native performance across devices.</p>
 
 ###
 
