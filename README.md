@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32" alt="android logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" height="32" alt="android logo"  />
 </div>
 
