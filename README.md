@@ -1,28 +1,41 @@
-Hi, I'm Vinicius
+# Vinicius Gabriel
 
-Reverse engineer and software engineer focused on mobile security.
+**Software Engineer | Reverse Engineering | Security Research**
 
-I started out modding Minecraft, spent 6 years researching game anti-cheat systems
-(including kernel-mode protections), and now apply that low-level background to
-Android and iOS application security.
-What I work on
+Software engineer with 5 years of professional experience in backend development and cloud infrastructure, alongside 6 years of independent research in reverse engineering, game security, and Windows internals.
 
-    Mobile app security: Android and iOS analysis following the OWASP MASTG
-    Reverse engineering: binary analysis, Windows internals, kernel-mode drivers
-    Cloud & DevOps: AWS (EC2, S3, IAM, VPC), CI/CD pipelines, Docker
+I'm interested in understanding how software works beneath the surface, analyzing complex systems, identifying vulnerabilities, and exploring security mechanisms.
 
-Toolbox
+Currently focusing on **application security, mobile security, and vulnerability research**.
 
-    Static analysis: Ghidra · jadx · apktool
-    Dynamic analysis: x64dbg · Frida · objection
-    Traffic & API testing: Burp Suite
-    Languages: C/C++ · Java · Python
-    Platforms & cloud: Android · iOS · Linux · AWS · Docker · CI/CD
+### Areas of Interest
 
-Writeups
+- **Reverse Engineering:** Binary analysis, debugging, memory analysis, and Windows internals.
+- **Security Research:** Vulnerability research, application security, and anti-cheat technologies.
+- **Mobile Security:** Android and iOS application analysis, static and dynamic analysis, and API security.
+- **Low-Level Development:** C/C++, Windows kernel-mode programming, and operating system internals.
+- **Software Engineering:** Backend systems, cloud infrastructure, and CI/CD.
 
-Lab writeups and analysis notes: see the pinned repositories below.
+### Technical Background
 
+| Category | Technologies |
+|---|---|
+| Languages | C, C++, Java, Python |
+| Reverse Engineering | Ghidra, x64dbg, Binary Analysis |
+| Security | Burp Suite, Frida, OWASP MASTG |
+| Mobile | Android, iOS, JADX, apktool |
+| Systems | Windows Internals, Linux, Kernel Development |
+| Infrastructure | AWS, GCP, Docker, CI/CD |
+
+### Research
+
+My independent research primarily involves:
+
+- Reverse engineering native applications and undocumented interfaces.
+- Investigating game security and anti-cheat mechanisms.
+- Exploring Windows internals, memory management, and kernel-mode components.
+- Analyzing application security and potential attack surfaces.
+- Studying Android and iOS application security.
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vsaint1.vsaint1&"  />
